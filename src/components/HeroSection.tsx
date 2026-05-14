@@ -6,7 +6,7 @@ export function HeroSection() {
     <section id="top" className="relative min-h-screen w-full overflow-hidden bg-wedding-black">
       <motion.img
         src={heroPhoto}
-        alt="Aarthi & Karthik"
+        alt="Anusha & Robin"
         initial={{ scale: 1.2, opacity: 0 }}
         animate={{ scale: 1, opacity: 0.85 }}
         transition={{ duration: 2.4, ease: [0.22, 1, 0.36, 1] }}
